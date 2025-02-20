@@ -1,0 +1,3 @@
+Um editor de texto simples, desenvolvido para fins de aprendizado e com tarefas simples como criar um documento, salvar, certralizar, negritar texto,...
+
+![fundo](https://github.com/user-attachments/assets/0c5114a0-4c94-49c0-9d74-bb4f2dbecab7)
